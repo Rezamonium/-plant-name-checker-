@@ -11,7 +11,7 @@ This Python tool checks plant scientific names using the [Plants of the World On
 
 ## 📂 Input Format
 
-| Scientific Name           |
+| Sci_name           |
 |---------------------------|
 | Bulbophyllum superpositum |
 | Phalaenopsis amabilis     |
