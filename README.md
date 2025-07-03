@@ -19,7 +19,8 @@ This Python tool checks plant scientific names using the [Plants of the World On
 
 ## ⚙️ Setup
 1. Download all files and save to your folder.
-2. Install required packages:
+2. Install Python.
+3. Install required packages:
 
 ```bash
 F:
