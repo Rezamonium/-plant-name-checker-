@@ -31,3 +31,7 @@ pip install -r requirements.txt
 ## Checking bulk your plant list scientific name
 1. Making your plant species list in excel file
 2. Run the Python code
+
+## Acknowledgements
+1. Kew POWO API
+2. Developed by Reza Saputra, Papua Barat
