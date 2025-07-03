@@ -34,5 +34,5 @@ pip install -r requirements.txt
 2. Run the Python code
 
 ## Acknowledgements
-1. Kew POWO API
+1. POWO Kew Royal Botanic Garden 
 2. Developed by Reza Saputra, Papua Barat
