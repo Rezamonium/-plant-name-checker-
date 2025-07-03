@@ -1,6 +1,6 @@
 # Plant Scientific Name Checker
 
-This Python tool checks plant scientific names using the [Plants of the World Online (POWO)](https://powo.science.kew.org) API and outputs accepted names, authors, and synonyms.
+This Python tool checks plant scientific names using the [Plants of the World Online (POWO)](https://powo.science.kew.org) API and outputs accepted names and authors.
 
 ## 🔍 Features
 
@@ -18,8 +18,16 @@ This Python tool checks plant scientific names using the [Plants of the World On
 | ...                       |
 
 ## ⚙️ Setup
-
-Install required packages:
+1. Download all files and save to your folder.
+2. Install required packages:
 
 ```bash
-pip install pandas requests openpyxl
+F:
+cd Python\plant-name-checker #  ← example if you save the downloaded files into "F:\Python\plant-name-checker" folder
+dir   # ← optional, just to confirm the file is listed
+pip install -r requirements.txt
+```
+
+## Checking bulk your plant list scientific name
+1. Making your plant species list in excel file
+2. Run the Python code
